@@ -1,0 +1,51 @@
+* {
+margin: 0;
+padding: 0;    
+}
+
+body {
+    font-family: "Roboto";
+    font-size: 0.8rem;
+  }
+
+li
+{
+list-style-type: none;
+
+}
+
+ul.tags 
+{
+display: flex;
+flex-direction:row;
+
+}
+
+
+li.tag 
+{
+margin-right: 1rem;
+margin-bottom: 2rem;
+}
+
+li.tag  a {
+
+    text-decoration: none;
+
+    background-color: gainsboro;
+    color : black;
+
+    padding: 1rem;
+
+    border-radius: 8px;
+
+}
+
+li.tag  a:hover {
+
+    background-color: black;
+    color : gainsboro;
+
+  }
+
+  
