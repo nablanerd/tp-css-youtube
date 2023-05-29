@@ -16,6 +16,17 @@ nav {
     height: 24px;
 }
 
+.logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title_logo {
+
+    color: #ffffff;
+}
 .search-bar {
     display: flex;
     align-items: center;
