@@ -47,6 +47,8 @@
   grid-area: m;
   display: grid;
   background-color: #000000;
+
+  margin-top: 2px;
 }
 
 
@@ -218,4 +220,15 @@ max-width: 100%;
 height: auto;
 vertical-align: middle;
 border-radius: 8px;
+}
+
+
+.icon_title::before {
+
+  content : " ";
+}
+
+.icon_title {
+
+  margin-left: 6px;
 }
