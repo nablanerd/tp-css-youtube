@@ -2,7 +2,7 @@
 
 ## Description
 
-Clone de la page d'accueil de Youtube en html et css
+Clone de la page d'accueil de Youtube en html et css.
 
 ## Stack
 
